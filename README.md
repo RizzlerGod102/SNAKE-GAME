@@ -44,5 +44,6 @@ Control a growing snake on a canvas, eat food, and avoid walls and your own tail
 
 4. Open the folder and double-click index.html.
 
-5. he game will open in your web browser and is ready to play!
+5. The game will open in your web browser and is ready to play!
+
 
