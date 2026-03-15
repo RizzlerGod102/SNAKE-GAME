@@ -46,3 +46,7 @@ Control a growing snake on a canvas, eat food, and avoid walls and your own tail
 
 5. The game will open in your web browser and is ready to play!
 
+Screenshot:
+
+![Snake Game Screenshot](assets/snake.png)
+
