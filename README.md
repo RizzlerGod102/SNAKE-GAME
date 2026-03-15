@@ -34,5 +34,15 @@ Control a growing snake on a canvas, eat food, and avoid walls and your own tail
 - **JavaScript** – Game logic & controls  
 - **CSS** – Basic styling  
 
+💾 How to Download and Play
 
+1. Go to the GitHub repository page.
+
+2. Click the green Code button → then click Download ZIP.
+
+3. Extract the ZIP file to a folder on your computer.
+
+4. Open the folder and double-click index.html.
+
+5. he game will open in your web browser and is ready to play!
 
