@@ -48,5 +48,5 @@ Control a growing snake on a canvas, eat food, and avoid walls and your own tail
 
 Screenshot:
 
-![Snake Game Screenshot](assets/snake.png)
+![Snake Game Screenshot](snake.png)
 
